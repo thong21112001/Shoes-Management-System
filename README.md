@@ -1,6 +1,8 @@
 # Shoes-Management-System
 Giai đoạn demo (ĐỌC README GIÙM CÁI)
 
+##Yêu cầu mỗi bản Update thì xóa các database cũ rồi chạy file Sql mới
+
 ## SQL Server
 ```bash
 Mở file sql -> Ctrl + A (chọn toàn bộ) rồi bấm Excute cho chạy dữ liệu
