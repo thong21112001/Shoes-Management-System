@@ -5,7 +5,7 @@ Giai đoạn demo (ĐỌC README GIÙM CÁI)
 
 ## SQL Server
 ```bash
-Mở file sql -> Ctrl + A (chọn toàn bộ) rồi bấm Excute cho chạy dữ liệu
+Mở file sql -> Chỉnh lại đường dẫn ->Ctrl + A (chọn toàn bộ) rồi bấm Excute cho chạy dữ liệu
 ```
 
 ## Visual Studio
