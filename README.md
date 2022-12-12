@@ -1,5 +1,5 @@
 # Shoes-Management-System
-Giai đoạn demo (ĐỌC README GIÙM CÁI)
+Giai đoạn demo (Chưa thực sự hoàn thiện về các quy trình)
 
 ##Yêu cầu mỗi bản Update thì xóa các database cũ rồi chạy file Sql mới
 
@@ -14,5 +14,5 @@ Vào Visual Studio -> chọn Tools -> Connect to Database -> SQL Server -> Nhậ
 Bấm cancle -> Rồi Cop vào DataProvider trong DAL
 ```
 
-## Liên hệ để hỏi cách cài
+## Liên hệ
 [Trần Quang Thông](https://www.facebook.com/quangthong211101)
